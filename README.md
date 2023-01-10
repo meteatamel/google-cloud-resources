@@ -21,6 +21,7 @@ PR!
 * [Google Cloud Codelabs](https://codelabs.developers.google.com/?category=cloud)
 * [Google Cloud Skills Boost](https://googlecloud.qwiklabs.com/) (formerly known
   as Qwiklabs)
+* [GCP for Bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics)
 
 ## Videos
 
